@@ -4,6 +4,10 @@
 
 **Android &nbsp;·&nbsp; Web &nbsp;·&nbsp; Rust**
 
+<div id="header" align="center">
+  <img src="https://github.com/hatakekakashri/hatakekakashri/assets/87667048/64afdcea-7e0f-4d57-89da-55112a41e515" width="480"/>
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=HatakeKakashri&label=Profile%20views&color=1f6feb&style=flat" alt="Profile views" />
 
 <br />
