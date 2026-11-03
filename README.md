@@ -28,20 +28,9 @@ I have 10+ years of experience building software across three areas: native Andr
 
 ## Open source
 
-**[NewPipe](https://github.com/TeamNewPipe/NewPipe)** (Android): contributions toward the Jetpack Compose migration, plus smaller features and fixes.
+**NewPipe (Android):** Contributed to the app's modernization, primarily through its migration to Jetpack Compose, including foundational integration and UI screen migrations. Also contributed feature enhancements, Android platform updates, and bug fixes across the application.
 
-- [#10875](https://github.com/TeamNewPipe/NewPipe/pull/10875): Introducing Jetpack Compose in NewPipe
-- [#10876](https://github.com/TeamNewPipe/NewPipe/pull/10876): Settings redesign debug page
-- [#12803](https://github.com/TeamNewPipe/NewPipe/pull/12803): Complete the debug screen migration to Compose
-- [#13056](https://github.com/TeamNewPipe/NewPipe/pull/13056): Bump minimum SDK version to API 23 (needed for Navigation 3)
-- [#12821](https://github.com/TeamNewPipe/NewPipe/pull/12821): Add enqueue option to router dialog
-- [#10427](https://github.com/TeamNewPipe/NewPipe/pull/10427): Add playlist name and video name in playlist sharing content
-- [#11067](https://github.com/TeamNewPipe/NewPipe/pull/11067): Fix RSS button visibility
-- [#11014](https://github.com/TeamNewPipe/NewPipe/pull/11014): Fix GitHub workflow for Android tests
-
-**[FlorisBoard](https://github.com/florisboard/florisboard)** (Android keyboard, Kotlin):
-
-- [#2385](https://github.com/florisboard/florisboard/pull/2385): Emoji suggestions, with an `EmojiSuggestionProvider`, `NlpManager` integration and a custom suggestion-candidate class
+**FlorisBoard (Android, Kotlin):** Implemented emoji suggestions, integrating a dedicated EmojiSuggestionProvider with the NLP pipeline and suggestion-candidate infrastructure.
 
 ## Languages and tools
 
